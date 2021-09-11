@@ -1,4 +1,6 @@
-### 👋 Hi Everyone 
+### 👋 Hello
+
+<br/>
 
 ## Who am I 😬
 
@@ -10,7 +12,8 @@
 
 ## Frontend Developer
 
-#### main skill
+#### # main skill
+
 <p>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/html-E6B91E?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
@@ -21,7 +24,7 @@
 
 </p>
 
-#### sub skill (try to use)
+#### # sub skill (try to use)
 <p>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/Mobx-F24E1E?logo=mobx&logoColor=white" />&nbsp   
@@ -30,24 +33,20 @@
   <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
 <!--   <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />&nbsp -->
-
 </p>
 
-#### design tool
+#### # design tool
 <p>
   <img src="https://img.shields.io/badge/Figma-8d4ff6?logo=figma&logoColor=white" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beckyi&hide=java&exclude_repo=upa_web)](https://github.com/beckyi/github-readme-stats)
 
 <br/>
 
 ## Current Develop
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beckyi&hide=java&exclude_repo=upa_web)](https://github.com/beckyi/github-readme-stats)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beckyi)](https://github.com/anuraghazra/github-readme-stats)
-</div
-
 
 <br/>
 
